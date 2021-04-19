@@ -5,3 +5,7 @@
     background-color: red;
     border-radius: 10px;
 }
+
+.jumbotron {
+    background-color: rgba(14, 45, 44, 0.0);
+}
